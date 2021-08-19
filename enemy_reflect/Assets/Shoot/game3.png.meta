@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: b1e8f256dfa0bb9438a5a5e8bc381df9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6116649574549606263
+    second: game3_0
+  - first:
+      213: -2990789722425558085
+    second: game3_1
+  - first:
+      213: 4889299817983788351
+    second: game3_2
+  - first:
+      213: -4531646883295453617
+    second: game3_3
+  - first:
+      213: 8946123568354108110
+    second: game3_4
+  - first:
+      213: -1308598888064475668
+    second: game3_5
+  - first:
+      213: 3731979788842774820
+    second: game3_6
+  - first:
+      213: 4059692311590858910
+    second: game3_7
+  - first:
+      213: 2192263883072309026
+    second: game3_8
+  - first:
+      213: -1155396599890467022
+    second: game3_9
+  - first:
+      213: -7707354039715689437
+    second: game3_10
+  - first:
+      213: 5527352733390182994
+    second: game3_11
+  - first:
+      213: 970700137758017361
+    second: game3_12
+  - first:
+      213: -2155937576661477157
+    second: game3_13
+  - first:
+      213: -7922685853201370714
+    second: game3_14
+  - first:
+      213: -7464443373921690572
+    second: game3_15
+  - first:
+      213: 5711134299732628401
+    second: game3_16
+  - first:
+      213: 1292901803956581011
+    second: game3_17
+  - first:
+      213: 8501647452512122023
+    second: game3_18
+  - first:
+      213: -7004421207670640598
+    second: game3_19
+  - first:
+      213: -6767466854115495150
+    second: game3_20
+  - first:
+      213: 2833486831258725062
+    second: game3_21
+  - first:
+      213: -8908695531636839688
+    second: game3_22
+  - first:
+      213: 2830299484134077045
+    second: game3_23
+  - first:
+      213: -5651789046114085706
+    second: game3_24
+  - first:
+      213: -6997052137698719165
+    second: game3_25
+  - first:
+      213: 5893675541880897383
+    second: game3_26
+  - first:
+      213: -3818001969041027756
+    second: game3_27
+  - first:
+      213: -6993487122034236519
+    second: game3_28
+  - first:
+      213: -4191512858136922473
+    second: game3_29
+  - first:
+      213: 1649905582346633830
+    second: game3_30
+  - first:
+      213: -2962819237342857964
+    second: game3_31
+  - first:
+      213: 8237514434096363557
+    second: game3_32
+  - first:
+      213: -8721650628485382713
+    second: game3_33
+  - first:
+      213: -4455944571302504158
+    second: game3_34
+  - first:
+      213: -4680822241736275627
+    second: game3_35
+  - first:
+      213: -7384922319429675387
+    second: game3_36
+  - first:
+      213: -8988811235753432699
+    second: game3_37
+  - first:
+      213: -1205793985695791315
+    second: game3_38
+  - first:
+      213: 3553129061269690925
+    second: game3_39
+  - first:
+      213: -2055734928167922353
+    second: game3_40
+  - first:
+      213: 2749063634051690789
+    second: game3_41
+  - first:
+      213: 4357252244706504540
+    second: game3_42
+  - first:
+      213: -8797399692592241665
+    second: game3_43
+  - first:
+      213: -6047295752570088
+    second: game3_44
+  - first:
+      213: -8236585620443034350
+    second: game3_45
+  - first:
+      213: 4854365617945164877
+    second: game3_46
+  - first:
+      213: -3056949565963151187
+    second: game3_47
+  - first:
+      213: 857600312859340904
+    second: game3_48
+  - first:
+      213: 1669248534534255811
+    second: game3_49
+  - first:
+      213: 3578175816454419002
+    second: game3_50
+  - first:
+      213: -3803676424453416317
+    second: game3_51
+  - first:
+      213: 5925749008491824271
+    second: game3_52
+  - first:
+      213: -2749374280342432595
+    second: game3_53
+  - first:
+      213: 8998660705028808532
+    second: game3_54
+  - first:
+      213: 571240182868623635
+    second: game3_55
+  - first:
+      213: -4908807672692838814
+    second: game3_56
+  - first:
+      213: 214759366208123949
+    second: game3_57
+  - first:
+      213: -200684720371691507
+    second: game3_58
+  - first:
+      213: 8472924187128313930
+    second: game3_59
+  - first:
+      213: -8590516193631491170
+    second: game3_60
+  - first:
+      213: -9083004172810499619
+    second: game3_61
+  - first:
+      213: 5131766561074383115
+    second: game3_62
+  - first:
+      213: 745910538718225894
+    second: game3_63
+  - first:
+      213: -1447504239466702972
+    second: game3_64
+  - first:
+      213: -6009890755546294483
+    second: game3_65
+  - first:
+      213: -1317175663247101233
+    second: game3_66
+  - first:
+      213: -5726271567497492208
+    second: game3_67
+  - first:
+      213: 3356998687953831625
+    second: game3_68
+  - first:
+      213: -8491346659888371377
+    second: game3_69
+  - first:
+      213: -6846626439465831551
+    second: game3_70
+  - first:
+      213: 3260052789893647665
+    second: game3_71
+  - first:
+      213: -141657167084241136
+    second: game3_72
+  - first:
+      213: -4224757075127414007
+    second: game3_73
+  - first:
+      213: -2329737488508009136
+    second: game3_74
+  - first:
+      213: -3902533657289134526
+    second: game3_75
+  - first:
+      213: -3715961850950028440
+    second: game3_76
+  - first:
+      213: 1589511567690833211
+    second: game3_77
+  - first:
+      213: -4998718738774451227
+    second: game3_78
+  - first:
+      213: -4656552241765572277
+    second: game3_79
+  - first:
+      213: -4276776732992652056
+    second: game3_80
+  - first:
+      213: -6224242393605780084
+    second: game3_81
+  - first:
+      213: -8520063570295264621
+    second: game3_82
+  - first:
+      213: 2651620181684944709
+    second: game3_83
+  - first:
+      213: 4975364112220590349
+    second: game3_84
+  - first:
+      213: 8884951716072403328
+    second: game3_85
+  - first:
+      213: 6065049189222585714
+    second: game3_86
+  - first:
+      213: 6528109591839524710
+    second: game3_87
+  - first:
+      213: 2962577943555767358
+    second: game3_88
+  - first:
+      213: -6035723832792630800
+    second: game3_89
+  - first:
+      213: -5897712111991397753
+    second: game3_90
+  - first:
+      213: -2200509120044163223
+    second: game3_91
+  - first:
+      213: 7520176797885336053
+    second: game3_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game3_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 481
+        width: 94
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f354e43a7484ad340800000000000000
+      internalID: 4889299817983788351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 394
+        width: 129
+        height: 75
+      alignment: 9
+      pivot: {x: 0.095413625, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa2da04d94fd5480800000000000000
+      internalID: -8908695531636839688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 322
+        width: 114
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cbd7b5fcb2e5340800000000000000
+      internalID: 4854365617945164877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_47
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 339
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da85b70f0988395d0800000000000000
+      internalID: -3056949565963151187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_48
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 333
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860be37d0fec6eb00800000000000000
+      internalID: 857600312859340904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 335
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c471c6b2bc5a2710800000000000000
+      internalID: 1669248534534255811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 327
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32b8a372fb38a130800000000000000
+      internalID: 3578175816454419002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 258
+        width: 228
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd94d3224dfa2f180800000000000000
+      internalID: -9083004172810499619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_62
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 257
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09011f7f72b73740800000000000000
+      internalID: 5131766561074383115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_63
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 255
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e52586dea10a5a00800000000000000
+      internalID: 745910538718225894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_64
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 261
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48717bb309e69ebe0800000000000000
+      internalID: -1447504239466702972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_67
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 276
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01984e339523880b0800000000000000
+      internalID: -5726271567497492208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 192
+        width: 197
+        height: 56
+      alignment: 9
+      pivot: {x: 0.18965079, y: 0.5532567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dc1aa6db80e3d20800000000000000
+      internalID: 3260052789893647665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game3_81
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 143
+        width: 183
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d433d358c0f99a0800000000000000
+      internalID: -6224242393605780084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
